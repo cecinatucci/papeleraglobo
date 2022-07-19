@@ -1,0 +1,588 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/F106458F/aluminio.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"aluminio_archivos/filelist.xml">
+<style id=3D"Excell Aluminio Pag Web(280)_3004_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+.xl153004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl633004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:red;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl643004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:red;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl653004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:black;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl663004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl673004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl683004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:14.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl693004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:red;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl703004
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:#A9D08E;
+	mso-pattern:black none;
+	white-space:nowrap;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--La siguiente información se generó mediante el Asistente para publicar =
+como
+página web de Microsoft Excel.-->
+<!--Si se vuelve a publicar el mismo elemento desde Excel, se reemplazará t=
+oda
+la información comprendida entre las etiquetas DIV.-->
+<!----------------------------->
+<!--INICIO DE LOS RESULTADOS DEL ASISTENTE PARA PUBLICAR COMO PÁGINA WEB DE
+EXCEL -->
+<!----------------------------->
+
+<div id=3D"Excell Aluminio Pag Web(280)_3004" align=3Dcenter x:publishsourc=
+e=3D"Excel">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D820 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:617pt'>
+ <col width=3D73 style=3D'mso-width-source:userset;mso-width-alt:2669;width=
+:55pt'>
+ <col width=3D393 style=3D'mso-width-source:userset;mso-width-alt:14372;wid=
+th:295pt'>
+ <col width=3D118 span=3D3 style=3D'mso-width-source:userset;mso-width-alt:=
+4315;
+ width:89pt'>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl633004 width=3D73 style=3D'height:18.75pt;width=
+:55pt'>&nbsp;</td>
+  <td class=3Dxl643004 width=3D393 style=3D'border-left:none;width:295pt'>A=
+luminio</td>
+  <td class=3Dxl693004 width=3D118 style=3D'border-left:none;width:89pt'>Bu=
+lto x
+  Mayor</td>
+  <td class=3Dxl693004 width=3D118 style=3D'border-left:none;width:89pt'>Me=
+nor</td>
+  <td class=3Dxl693004 width=3D118 style=3D'border-left:none;width:89pt'>Fr=
+accionado</td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 11</td>
+  <td class=3Dxl663004 style=3D'border-top:none;border-left:none'>Bobina de=
+ papel
+  aluminio bouquet 28 cm x 5 mts</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>30 ud</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1 ud</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>xx</td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 12<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl673004 style=3D'border-top:none;border-left:none'>Bobina de=
+ papel
+  aluminio 40 cm x 1 kg</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>10 ud</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1 ud</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>xx</td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 13</td>
+  <td class=3Dxl673004 style=3D'border-top:none;border-left:none'>Budineras=
+ B 260 -
+  250 gr. (mini)</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1300 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 50 ud</=
+td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 14</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Budineras=
+ B 60 -
+  1/2 kg</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>800 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 15</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Budineras=
+ D 11 -
+  1 kg</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>500 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 16</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Pan dulce=
+ 1/2 kg</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>800 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 17</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Pan dulce=
+ 1 kg</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>600 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 18</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Flaneras V
+  120<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1000 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 50 ud</=
+td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 19</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Flaneras =
+V 130</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1500 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 50 ud</=
+td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 20</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Flaneras =
+V 230</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1500 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 50 ud</=
+td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 21</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Fuentes F=
+ 50</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1000 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 22</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Fuentes F=
+ 75</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>500 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 23</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Fuentes F=
+ 100</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>500 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 24</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Fuentes F=
+ 200</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>300 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 25</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Tapas F 5=
+0</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1000 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 26</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Tapas F 7=
+5</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1000 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 27</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Tapas F 1=
+00</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1000 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 28</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Tapas F 2=
+00</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>600 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 29</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+14
+  (provoleteras)</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>1000 ud</=
+td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 30</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+15</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>500 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 31</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+17</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>600 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 32</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+20</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>500 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 33</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+23<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>300 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 34</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+26</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>350 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 35</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+30</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>300 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D25 style=3D'height:18.75pt'>
+  <td height=3D25 class=3Dxl653004 style=3D'height:18.75pt;border-top:none'=
+>A 36</td>
+  <td class=3Dxl683004 style=3D'border-top:none;border-left:none'>Platos P =
+33</td>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>150 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>100 ud</t=
+d>
+  <td class=3Dxl703004 style=3D'border-top:none;border-left:none'>x 25 ud<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D73 style=3D'width:55pt'></td>
+  <td width=3D393 style=3D'width:295pt'></td>
+  <td width=3D118 style=3D'width:89pt'></td>
+  <td width=3D118 style=3D'width:89pt'></td>
+  <td width=3D118 style=3D'width:89pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--FINAL DE LOS RESULTADOS DEL ASISTENTE PARA PUBLICAR COMO PÁGINA WEB DE
+EXCEL-->
+<!----------------------------->
+</body>
+
+</html>
